@@ -1,4 +1,4 @@
-@extends('frontend.layouts.fashion)
+@extends('frontend.layouts.fashion')
 @section('title')
     Trang chủ
 @endsection

@@ -11,7 +11,7 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
 class AdminModel extends Authenticatable
 {
     //
-    public $table = 'admins';
+    public $table = 'admin';
     use Notifiable;
 
     /**

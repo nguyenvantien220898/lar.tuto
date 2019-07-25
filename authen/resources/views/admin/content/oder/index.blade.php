@@ -1,9 +1,7 @@
 @extends('admin.layouts.glance')
 @section('title')
-    Quản trị  đặt sản phẩm
+    quản trị đặt hàng
 @endsection
 @section('content')
-    <h1>Quản trị đặt sản phẩm</h1>
-
-
+    <h1>   quản trị đặt hàng</h1>
 @endsection
